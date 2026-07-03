@@ -1,0 +1,23 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+
+# Declare text files
+*.kt text eol=lf
+*.xml text eol=lf
+*.gradle text eol=lf
+*.gradle.kts text eol=lf
+*.properties text eol=lf
+*.txt text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
+*.json text eol=lf
+*.md text eol=lf
+gradlew text eol=lf
+
+# Declare binary files
+*.jar binary
+*.png binary
+*.jpg binary
+*.webp binary
+*.apk binary
+*.keystore binary
