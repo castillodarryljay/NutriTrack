@@ -1,0 +1,6 @@
+{
+  "name": "NutriTrack AI",
+  "description": "Smart AI-powered food scanning, caloric deficits tracking, diet companion assistant, and water tracking customized with local dishes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
